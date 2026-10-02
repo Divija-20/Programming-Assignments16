@@ -1,6 +1,7 @@
+package AssignmentClean;
 import java.util.Scanner;
 
-public class DivideNumbers {
+public class divide {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
