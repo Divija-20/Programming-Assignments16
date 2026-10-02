@@ -1,4 +1,3 @@
-package AssignmentClean;
 import java.util.Scanner;
 
 public class divide {
